@@ -1,3 +1,6 @@
 [submodule "rm-dotnet-api"]
 	path = rm-dotnet-api
 	url = git@github.com:richmiles/rm-dotnet-api.git
+[submodule "rm-react-ui"]
+	path = rm-react-ui
+	url = git@github.com:richmiles/rm-react-ui.git
