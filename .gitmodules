@@ -1,0 +1,3 @@
+[submodule "rm-dotnet-api"]
+	path = rm-dotnet-api
+	url = git@github.com:richmiles/rm-dotnet-api.git
